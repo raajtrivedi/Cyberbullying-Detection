@@ -28,7 +28,7 @@ To build a machine learning model that can:
 
 ---
 
-##🧠 Model Details
+## 🧠 Model Details
 - Algorithm: Support Vector Machine (SVM)
 - Vectorizer: TF-IDF (Term Frequency-Inverse Document Frequency)
 - Classes:
@@ -41,14 +41,14 @@ To build a machine learning model that can:
 
 ---
 
-##📊 Dataset
+## 📊 Dataset
 - File: cyberbullying_tweets.csv
 - A labeled dataset of tweets indicating the type of cyberbullying.
 - Used for training and evaluation.
 
 ---
 
-##🛠 Built With
+## 🛠 Built With
  - Python
  - Streamlit
  - Scikit-learn
@@ -57,7 +57,7 @@ To build a machine learning model that can:
 
 ---
 
-##👤 Author
+## 👤 Author
  - Raj Trivedi
   - 📍 Junagadh, India
   - 💡 Python & ML Enthusiast
