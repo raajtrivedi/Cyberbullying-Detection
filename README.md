@@ -59,5 +59,5 @@ To build a machine learning model that can:
 
 ## 👤 Author
  - Raj Trivedi
-  - 📍 Junagadh, India
+  - 📍 Ahmedabad, India
   - 💡 Python & ML Enthusiast
